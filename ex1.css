@@ -1,0 +1,21 @@
+.mod2 {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.mod1{
+    color:green
+}
+.down{
+    margin-top: 5%;
+}
+.reessayer{
+    margin-left:45%;
+    margin-top: 5%;
+}
+.rejouer{
+    margin-top: 25%;
+    margin-left:45%;
+}
+body{
+    background-color: bisque;
+}
